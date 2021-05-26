@@ -1,3 +1,5 @@
+## To start the app use 'npm start app.js' or 'nodemon app.js' 
+
 # Controllers
 1. Candidate.js : It contains All required methods for a candidate such as 
 Signup , 
